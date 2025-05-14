@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nothing<br>
+🔭 I’m currently a student of Bscs in UCP, Lahore.<br>
 
 
 ## 🌐 Socials:
