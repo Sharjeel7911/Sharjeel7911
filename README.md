@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of BScs in UCP, Lahore.<br>
+🔭 I’m currently a student of BScs in UCP, Lahore.<br> 
 
 
 ## 🌐 Socials:
