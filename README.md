@@ -21,12 +21,12 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,astro&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,astro,vite&perline=9" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,cs,c,cpp&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,cs,c,cpp,anaconda&perline=10" />
 </p>
 
 <h3 align="center">Databases</h3>
@@ -51,7 +51,7 @@
 
 <h3 align="center">Operating Systems & Editors</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,fedora,vscode,neovim,zed,kitty&perline=8" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,vscode,neovim&perline=8" />
 </p>
 
 <br/>
