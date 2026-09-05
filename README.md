@@ -5,10 +5,10 @@
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/sharjeel7911" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align: middle;" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:hi@abdullahamin.dev">
+  <a href="mailto:sharjeelahmad7911@gmail.com">
     <img src="./icons/Email.svg" height="48" style="vertical-align: middle;" />
   </a>
 </p>
@@ -21,47 +21,37 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,materialui,astro&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,astro&perline=9" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,fastapi,java,cs,c,cpp,graphql&perline=10" />
-</p>
-
-<h3 align="center">Mobile & Desktop</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,cs,c,cpp&perline=10" />
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,supabase,firebase&perline=8" />
 </p>
 
-<h3 align="center">AI/ML & Data Science</h3>
+<!--<h3 align="center">AI/ML & Data Science</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
-</p>
+</p>-->
 
-<h3 align="center">Cloud & Hosting</h3>
+<!--<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,heroku&perline=8" />
-</p>
+</p>-->
 
 <h3 align="center">DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,postman,gradle,cmake,bun,pnpm,selenium,bash&perline=12" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,cmake,bun,pnpm,selenium,bash&perline=12" />
 </p>
 
 <h3 align="center">Operating Systems & Editors</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim&perline=8" />
-</p>
-
-<h3 align="center">Game Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity&perline=8" />
+  <img src="https://skillicons.dev/icons?i=linux,fedora,vscode,neovim,zed,kitty&perline=8" />
 </p>
 
 <br/>
