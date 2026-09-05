@@ -11,9 +11,11 @@
   </a>
 </p>
 
-<a href="https://sharjeel7911.github.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
+<p align="center">
+  <a href="https://sharjeel7911.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 # 💻 Tech Stack
 
