@@ -14,10 +14,11 @@ A programmer in progress from Pakistan
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=flat&logo=raylib&logoColor=black) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sharjeel7911&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sharjeel7911&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharjeel7911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharjeel7911&theme=tokyonight&animation=draw&name=sharjeel)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharjeel7911&theme=tokyonight&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharjeel7911&theme=tokyonight&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharjeel7911&theme=tokyonight&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharjeel7911&theme=tokyonight&animation=draw&utcOffset=0)
 ---
 [![](https://komarev.com/ghpvc/?username=sharjeel7911&icon=0&color=0)](https://visitcount.itsvg.in)
 
