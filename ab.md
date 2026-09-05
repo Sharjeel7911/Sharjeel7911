@@ -1,12 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=CBA6F7&width=750&height=65&lines=Hi+%F0%9F%91%8B%2C+im+sharjeel;I+Love+Building+Software+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=CBA6F7&width=750&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah;I+Love+Building+Software+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-=================================================================================================================================
+# 💫 About Me
 
-A programmer in progress from Pakistan
---------------------------------------
+I like taking software from an **idea** to something **running in the real world**.
+
+Most projects start with a problem I want to solve or something I think could work better: a repetitive task, a slow workflow, or a service that does not quite do what I need. Some become focused tools, while others grow into **complete systems that I design, deploy, and continue to improve**.
+
+I enjoy the whole process: understanding the problem, working through the messy parts, refining the details, and finally putting the result out there. Sometimes there is a practical reason to build something. Sometimes **the problem is interesting and shipping it is reason enough**.
+
+For me, the satisfying part is not just figuring something out. It is finishing it well enough to put it into the world.
+
+<a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+
 
 ## 🔗 Connect
-
 <p align="center">
   <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align: middle;" />
@@ -15,10 +24,6 @@ A programmer in progress from Pakistan
     <img src="./icons/Email.svg" height="48" style="vertical-align: middle;" />
   </a>
 </p>
-
-<a href="https://sharjeel7911.github.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
 
 # 💻 Tech Stack
 
@@ -65,9 +70,9 @@ A programmer in progress from Pakistan
 <h3 align="center">Game Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity&perline=8" />
-</p>
+</p>  
 
-<br/>
+<br/>  
 
 # 📊 GitHub Stats
 
@@ -89,15 +94,14 @@ A programmer in progress from Pakistan
   <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260810" alt="GitHub Streak" />
 </p>
 
-# 📊 GitHub Stats:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers&cachebust=20260701)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharjeel7911&theme=tokyonight&animation=draw&name=sharjeel)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharjeel7911&theme=tokyonight&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharjeel7911&theme=tokyonight&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharjeel7911&theme=tokyonight&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharjeel7911&theme=tokyonight&animation=draw&utcOffset=0)
----
+## 📊 Contribution Graph
 
-[![](https://komarev.com/ghpvc/?username=sharjeel7911&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260722" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260722" alt="Isometric GitHub contribution chart" />
+  </picture>
+</p>
