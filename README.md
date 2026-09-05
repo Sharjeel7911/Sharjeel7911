@@ -2,6 +2,7 @@
 
 ## 🔗 Connect
 
+<br>
 <p align="center">
   <a href="https://linkedin.com/in/sharjeel7911" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align: middle;" />
