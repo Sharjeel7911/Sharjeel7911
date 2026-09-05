@@ -56,26 +56,6 @@
 
 <br/>
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260807" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Top Languages by Repository" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Top Languages by Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260810" alt="GitHub Streak" />
-</p>
-
 # 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharjeel7911&theme=tokyonight&animation=draw&name=sharjeel)
@@ -84,7 +64,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharjeel7911&theme=tokyonight&animation=draw)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharjeel7911&theme=tokyonight&animation=draw&utcOffset=0)
 ---
-
-[![](https://komarev.com/ghpvc/?username=sharjeel7911&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
